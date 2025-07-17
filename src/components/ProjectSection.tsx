@@ -5,7 +5,7 @@ const projectData = [
   { id: 1, image: "/images/ali1.png" },
   { id: 2, image: "/images/haroon.png" },
   { id: 3, image: "/images/khizar1.png" },
-  { id: 4, image: "/images/khizar12.png" },
+  { id: 4, image: "/images/horse.png" },
   { id: 5, image: "/images/shayan2.png" },
   { id: 6, image: "/images/baki.png" },
 ];

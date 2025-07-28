@@ -25,7 +25,7 @@ const ProjectsSection = () => {
             key={project.id}
             src={project.image}
             alt={`Project ${project.id}`}
-            className="w-full h-auto rounded-lg shadow-md object-cover"
+            className="w-full h-full rounded-lg shadow-md object-cover"
           />
         ))}
       </div>
